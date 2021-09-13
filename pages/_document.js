@@ -11,7 +11,7 @@ class MyDocument extends Document {
       title: "Daniel Starling's Tech Blog",
       description: 'A compilation of tech knowledge from a full-stack developer.',
       image:
-        'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+        '../public/profile-pic.jpg'
     }
 
     return (
